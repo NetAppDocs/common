@@ -1,3 +1,11 @@
+= Legal notices
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
 Legal notices provide access to copyright statements, trademarks, patents, and more.
 
 == Copyright
@@ -19,3 +27,7 @@ https://www.netapp.com/us/media/patents-page.pdf[^]
 == Privacy policy
 
 https://www.netapp.com/us/legal/privacypolicy/index.aspx[^]
+
+== Open source
+
+Notice files provide information about third-party copyright and licenses used in NetApp software.
