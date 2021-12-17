@@ -18,15 +18,15 @@ Cloud Manager typically introduces a new release every month to bring you new fe
 tag::whats-new[]
 == 31 Oct 2021
 
-You can create iSCSI volumes for FSx for ONTAP using the Cloud Manager API and manage them in your working environment.
+* You can create iSCSI volumes for FSx for ONTAP using the Cloud Manager API and manage them in your working environment.
 
-You can link:task_manage_fsx_volumes.html#creating-volumes[select volume units (GiB or TiB) when creating volumes] in FSx for ONTAP.
+* You can link:task_manage_fsx_volumes.html#creating-volumes[select volume units (GiB or TiB) when creating volumes] in FSx for ONTAP.
 
 == 4 Oct 2021
 
-Now you can link:task_manage_fsx_volumes.html#creating-volumes[create CIFS volumes in FSx for ONTAP using Cloud Manager].
+* Now you can link:task_manage_fsx_volumes.html#creating-volumes[create CIFS volumes in FSx for ONTAP using Cloud Manager].
 
-Now you can link:task_manage_fsx_volumes.html#editing-volumes[edit FSx for ONTAP volumes using Cloud Manager].
+* Now you can link:task_manage_fsx_volumes.html#editing-volumes[edit FSx for ONTAP volumes using Cloud Manager].
 
 == 2 Sept 2021
 
