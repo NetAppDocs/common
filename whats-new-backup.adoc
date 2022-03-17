@@ -15,7 +15,7 @@ summary: Cloud Manager typically introduces a new release every month to bring y
 [.lead]
 Cloud Manager typically introduces a new release every month to bring you new features, enhancements, and bug fixes.
 
-tag::whats-new[]
+// tag::whats-new[]
 == 28 Nov 2021
 
 === Support for Kubernetes clusters
@@ -65,7 +65,7 @@ This is available when configuring backups from an on-premises ONTAP system or f
 === Enhancement for large directories
 
 The restriction of being able to browse a single directory with flat files up to a maximum of 30,000 files has been removed. Now you can restore files from directories that have a larger number of files.
-end::whats-new[]
+// end::whats-new[]
 
 == 2 Aug 2021
 
