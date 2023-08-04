@@ -9,7 +9,7 @@ link:https://www.netapp.com/company/legal/copyright/[https://www.netapp.com/comp
 
 NETAPP, the NETAPP logo, and the marks listed on the NetApp Trademarks page are trademarks of NetApp, Inc. Other company and product names may be trademarks of their respective owners.
 
-link:http://www.netapp.com/us/legal/netapptmlist.aspx[http://www.netapp.com/us/legal/netapptmlist.aspx^]
+link:https://www.netapp.com/company/legal/trademarks/[https://www.netapp.com/company/legal/trademarks/^]
 
 == Patents
 
@@ -19,4 +19,4 @@ link:https://www.netapp.com/pdf.html?item=/media/11887-patentspage.pdf[https://w
 
 == Privacy policy
 
-link:https://www.netapp.com/us/legal/privacypolicy/index.aspx[https://www.netapp.com/us/legal/privacypolicy/index.aspx^]
+link:https://www.netapp.com/company/legal/privacy-policy/[https://www.netapp.com/company/legal/privacy-policy/^]
